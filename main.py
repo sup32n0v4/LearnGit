@@ -1,3 +1,3 @@
 import os
 print("Path :", os.getcwd())
-print("Hello, World!")
+print("Hello, World and Earth!")
